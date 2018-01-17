@@ -8,7 +8,7 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Static Page Example"
+      title="MY Static Page Example"
       meta={[
         { name: 'description', content: 'Static Page Example' },
         { name: 'keywords', content: 'example' },
